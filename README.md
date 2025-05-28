@@ -1,16 +1,20 @@
-# Project Name
+# Animal recognizer
 
- Add short description of project here > 
+ For this project it will be about a AI ditector and you put a picture of a animal and it will detect which animal it is. 
 
-![add image descrition here](direct image link here)
+
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+The project was mainly used by a dataset and I have put it in there and with the data it has inside it will have pictures of a animal and the AI will classify them putting it in the animal categories cat,dog,elephant,horse, and lion.
+
+## How it works
+
+1. Upload a picture of any of the 5 animals
+2. It will look at the picture and it will use a pre-trained model and compare it
+3. after it will tell you what of the 5 animals it is
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
 
-[View a video explanation here](video link)
+
